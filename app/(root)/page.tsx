@@ -25,7 +25,7 @@ async function Home() {
     <>
       <section className="card-cta">
         <div className="flex flex-col gap-6 max-w-lg">
-          <h2>Get Interview-Ready with Mock Mate: AI Practice and Instant Feedback.</h2>
+          <h2>Mock Mate: AI-Powered Practice with Instant Feedback.</h2>
           <p className="text-lg">
            Your AI Mate for Practice, Feedback, and Confidence.
           </p>
